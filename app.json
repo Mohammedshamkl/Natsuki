@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Sadew451/Natsuki",
+   "repository": "https://github.com/Mohammedshamkl/Natsuki",
    "addons": [
       {
          "options": {
@@ -177,9 +177,9 @@
       "telegram",
       "anime",
       "group",
-      "manager",
-      "Natsuki"
+      "manager"
+    
    ],
-   "name": "Natsuki",
-   "repository": "https://github.com/Sadew451/Natsuki"
+   "name": "Mohammedshamkl",
+   "repository": "https://github.com/Mohammedshamkl/Natsuki"
 }
